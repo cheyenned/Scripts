@@ -1,3 +1,0 @@
-numpy==1.16.*
-Cython
-pandas==0.19.2
